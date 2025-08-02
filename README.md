@@ -22,3 +22,26 @@ This project helped reinforce my understanding of:
 ## 🚀 How to Run
 ```bash
 python shopping_cart.py
+
+## 🧠 Learning Outcomes
+
+Working with loops and conditionals
+
+Using dictionaries and lists in real-world scenarios
+
+Implementing user input and validations
+
+Structuring console-based applications
+
+
+## 💡 Future Enhancements
+
+Add quantity support for each item
+
+Integrate file saving and loading
+
+Create a GUI version using Tkinter or PyQt
+
+## 🤝 Contributions
+
+Contributions are welcome! Feel free to fork this repo and submit a pull request.
